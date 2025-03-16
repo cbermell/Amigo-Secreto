@@ -12,14 +12,6 @@ Este proyecto es una aplicación web sencilla que permite a los usuarios agregar
 
 Simplemente abre el archivo index.html en tu navegador preferido.
 
-📂 Estructura del Proyecto
-
-📁 amigo-secreto/
-├── 📄 index.html    # Estructura de la página web
-├── 📄 style.css     # Estilos de la interfaz
-├── 📄 app.js        # Lógica de la aplicación
-└── 📄 README.md     # Documentación del proyecto
-
 🛠️ Tecnologías Utilizadas
 
 HTML5
